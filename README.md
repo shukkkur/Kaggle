@@ -1,2 +1,2 @@
-# Kaggle
-Honing my Data Science skills with Kaggle datasets
+<h3 align='center'> Kaggle </h3>
+
