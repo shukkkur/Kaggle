@@ -1,2 +1,2 @@
-<h3 align='center'> Kaggle </h3>
+<h1 align='center'> Kaggle </h1>
 
